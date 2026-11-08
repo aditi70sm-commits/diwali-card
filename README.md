@@ -6,7 +6,7 @@ Made by Aditi.
 
 ## View it
 
-Open the live page: add your GitHub Pages link here after you turn on Pages.
+Open the live page: https://aditi70sm-commits.github.io/diwali-card/
 
 ## Run it locally
 
